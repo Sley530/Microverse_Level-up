@@ -57,3 +57,7 @@ function testNotEqual(val) {
   }
   
   testNotEqual(10);
+
+
+  // Number 6
+  
