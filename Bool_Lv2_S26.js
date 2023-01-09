@@ -8,17 +8,27 @@ function welcomeToBooleans() {
   }
 
 
-// // Number 2
-// function trueOrFalse(wasThatTrue) {
-//     // Only change code below this line
-//     if (wasThatTrue)
-//     {
-//       return "Yes, that was true";
-//     }
-//    return "No, that was false";
+// Number 2
+function trueOrFalse(wasThatTrue) {
+    // Only change code below this line
+    if (wasThatTrue)
+    {
+      return "Yes, that was true";
+    }
+   return "No, that was false";
   
-//     // Only change code above this line
-//   }
+    // Only change code above this line
+  }
   
   
   // Number 3
+
+  // Setup
+function testEqual(val) {
+    if (val == 12) { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  testEqual(10);
