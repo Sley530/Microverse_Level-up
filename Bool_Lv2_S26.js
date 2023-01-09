@@ -33,5 +33,15 @@ function testEqual(val) {
   
   testEqual(10);
 
-  // Number 4
   
+  // Number 4
+  // Setup
+function testNotEqual(val) {
+
+    if (val != 99) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  testNotEqual(10);
