@@ -32,3 +32,6 @@ function testEqual(val) {
   }
   
   testEqual(10);
+
+  // Number 4
+  
