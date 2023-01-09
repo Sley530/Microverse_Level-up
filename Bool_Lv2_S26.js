@@ -60,8 +60,9 @@ function testNotEqual(val) {
 
 
   // Number 6
-  const myArray = [50, 60, 70];
-const myData = myArray[0];
-
+  const _myArray = ["power", 25];
 
 // Number 7
+
+const myArray = [50, 60, 70];
+const myData = myArray[0];
