@@ -33,7 +33,7 @@ function testEqual(val) {
   
   testEqual(10);
 
-  
+
   // Number 4
   // Setup
 function testNotEqual(val) {
@@ -45,3 +45,6 @@ function testNotEqual(val) {
   }
   
   testNotEqual(10);
+
+
+  // Number 5
