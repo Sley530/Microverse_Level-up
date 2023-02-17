@@ -1,9 +1,9 @@
 // Number 1
 function welcomeToBooleans() {
     // Only change code below this line
-  
+
     return true; // Change this line
-  
+
     // Only change code above this line
   }
 
@@ -16,11 +16,11 @@ function trueOrFalse(wasThatTrue) {
       return "Yes, that was true";
     }
    return "No, that was false";
-  
+
     // Only change code above this line
   }
-  
-  
+
+
   // Number 3
 
   // Setup
@@ -30,7 +30,7 @@ function testEqual(val) {
     }
     return "Not Equal";
   }
-  
+
   testEqual(10);
 
 
@@ -43,7 +43,7 @@ function testNotEqual(val) {
     }
     return "Equal";
   }
-  
+
   testNotEqual(10);
 
 
@@ -55,12 +55,12 @@ function testNotEqual(val) {
     }
     return "Equal";
   }
-  
+
   testNotEqual(10);
 
 
   // Number 6
-  const _myArray = ["power", 25];
+  let _myArray = ["power", 25];
 
 
 // Number 7
@@ -74,4 +74,3 @@ const $myArray = [18, 64, 99];
 
 // Only change code below this line
 myArray[0] = 45;
- 
